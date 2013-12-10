@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Light Doc"
+  id="myeclipse.1386213389762"
+  context-root="/Light Doc"
+  j2ee-spec="6.0"
+  archive="Light Doc.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
